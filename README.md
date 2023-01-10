@@ -11,6 +11,8 @@ Aqui estão algumas idéias para você começar:
 - 📫 Como entrar em contato comigo: Redes Sociais Linkadas Abaixo
 - ⚡ Curiosidade: Sou esforçado e estou em busca de uma oportunidade na área.
 
+<br>
+<br>
 
 <div>
 <a href="https://github.com/luanalmeida18">
