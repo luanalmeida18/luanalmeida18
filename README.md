@@ -17,7 +17,8 @@ Aqui estão algumas idéias para você começar:
 Um pouco sobre mim:
 
 Amante de tecnologia desde sempre. Busco aprender com meus erros e ser melhor a cada dia, não melhor que ninguém, mas o melhor que eu consiga ser. Estudante sou e estudante serei, procuro aprender e me desafiar cada vez mais. Resolver desafios é algo que acho extraordinário neste mundo da tecnologia, é por isso que todos os dias fico em frente a um notebook por horas aprendendo. Quero não só mudar a história da minha família, mas mudar o mundo com a tecnologia.
-As vezes sei que as pessoas me olham com o olhar de "ele faz de tudo", na verdade eu faço mesmo, já fiz manutenções em Smartphones, já vendi roupa, já fui revendedor Natura, vendo perfumes importados até hoje, trabalho em manutenções de Pcs e notebooks, tive minha lojinha de acessórios, e até hoje procuro me desafiar em coisas novas, em fazer aquilo que outros pensam ser loucura. Afinal os loucos são que chegam onde os "normais" não chegam.
+As vezes sei que as pessoas me olham com o olhar de "ele faz de tudo", na verdade eu faço mesmo, já fiz manutenções em Smartphones, já vendi roupa, já fui revendedor de cosméticos, vendo perfumes importados até hoje, trabalho em manutenções de Pcs e notebooks, tive minha lojinha de acessórios, e até hoje procuro me desafiar em coisas novas, em fazer aquilo que outros pensam ser loucura. Afinal os loucos são que chegam onde os "normais" não chegam.
+<br>
 
 <div>
 <a href="https://github.com/luanalmeida18">
