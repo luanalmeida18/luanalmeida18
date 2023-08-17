@@ -1,7 +1,5 @@
-## Olá pessoal 👋
-
-#Eu sou Luan Almeida 😎
-
+## Olá pessoal 👋 
+## Meu nome é Luan Almeida 😎. 
 
 Aqui estão algumas idéias para você começar:
 - 🔭 Atualmente estou trabalhando em projetos pessoais como aprendizado
@@ -11,24 +9,29 @@ Aqui estão algumas idéias para você começar:
 - 📫 Como entrar em contato comigo: Redes Sociais Linkadas Abaixo
 - ⚡ Curiosidade: Sou esforçado e estou em busca de uma oportunidade na área.
 
-<br>
-<br>
 
-Um pouco sobre mim:
+## Quem sou eu
+Sou amante de tecnologia, e meu desejo é mudar a vida das pessoas através dela, e por isso sou constante e quero prosseguir nesta área. Possuo experiência com atendimento e suporte em informática, manutenções, formatações e acesso a web.
 
-Amante de tecnologia desde sempre. Busco aprender com meus erros e ser melhor a cada dia, não melhor que ninguém, mas o melhor que eu consiga ser. Estudante sou e estudante serei, procuro aprender e me desafiar cada vez mais. Resolver desafios é algo que acho extraordinário neste mundo da tecnologia, é por isso que todos os dias dedico horas estudando. Quero não só mudar a história da minha família, mas mudar o mundo com a tecnologia. Procuro me desafiar em coisas novas, em fazer aquilo que outros pensam ser loucura. Afinal os loucos são que chegam onde os "normais" não chegam.
-<br>
 
-<div>
-<a href="https://github.com/luanalmeida18">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luanalmeida18&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=luanalmeida18&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
+### Hard Skills 
+![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=264CE4)
+	![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
+	![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
+![Angular](https://img.shields.io/badge/Angular-000?style=for-the-badge&logo=angular&logoColor=C3002F)
 
-<br>
+## Conecte-se Comigo!
+[![Github](https://img.shields.io/badge/Github-000?style=for-the-badge&logo=Github&logoColor=fffff)](https://www.github.com/luanalmeida18)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/luanalmeida18)
 
-<div>
-<a href="https://instagram.com/_luanalmeida18/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href = "mailto:luanfelipe.lfpa@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/luanalmeida18/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+
+
+### GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=luanalmeida18&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=luanalmeida18&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=luanalmeida18&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/luanalmeida18/dio-lab-open-souce)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=luanalmeida18&theme=bear&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
