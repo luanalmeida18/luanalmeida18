@@ -33,5 +33,4 @@ Sou amante de tecnologia, e meu desejo é mudar a vida das pessoas através dela
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=luanalmeida18&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/luanalmeida18/dio-lab-open-souce)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=luanalmeida18&theme=bear&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-</div>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=luanalmeida18&theme=bear&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
